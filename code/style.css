@@ -470,6 +470,60 @@ p {
 		width: 750px;
 	}
 }
+/*   New_add-718     */
+
+
+
+.csr_report{
+	border: 0.3vw solid #387399;
+	width: 30%;
+	border-style:solid!important;
+	height: auto;
+	padding: 1vw 2vw;
+	border-radius: 5rem;
+}
+
+.report_font{
+	font-weight: 800;
+	font-size: 2vw;
+}
+
+
+.csr_report:hover{
+	width:35%;
+	background-color:#D0FBFF ;
+	color:#074A91;
+	border: #c9c9c9;
+}
+
+
+.ENG_report{
+	border: 0.3vw solid #3b9cd9;
+}
+@media screen and (min-width: 767px){
+	.report_font{
+		font-size: 1rem;
+	}
+}
+
+
+@media screen and (min-width: 992px){
+	.csr_report{
+		padding: 6px 12px;
+	}
+}
+
+@media screen and (min-width: 1200px){
+	.fs-2{
+		font-size: 2rem;
+	}
+	.csr_report{
+		padding: 10px 25px;
+	}
+}
+
+
+
 
 /* mangement1_1.svg */
 
