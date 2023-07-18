@@ -490,10 +490,9 @@ p {
 
 
 .csr_report:hover{
-	width:35%;
-	background-color:#D0FBFF ;
-	color:#074A91;
-	border: #c9c9c9;
+	background-color:#3d698d ;
+	color:#ffffff;
+	border: none;
 }
 
 
